@@ -6,7 +6,7 @@ public class Calculadora {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        scan.useLocale(Locale.US);
+        //scan.useLocale(Locale.US);
 
         System.out.println("Escolha qual operação você deseja executar");
         System.out.println("Digite 1 para Adição");
